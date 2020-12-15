@@ -6,6 +6,7 @@ Desafio do Titanic do Kaggle
 ### Claudio Sebastião
 ### Edinon
 ### Thais
+### Lucas Henrique
 ### Vitor
 
 ### Resultados
